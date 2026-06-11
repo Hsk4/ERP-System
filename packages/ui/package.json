@@ -1,0 +1,14 @@
+{
+  "name": "@erp/ui",
+  "version": "0.0.1",
+  "private": true,
+  "main": "src/index.tsx",
+  "types": "src/index.tsx",
+  "dependencies": {
+    "clsx": "^2.1.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}

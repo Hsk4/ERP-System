@@ -1,0 +1,6 @@
+[install]
+# Avoid symlink/hardlink issues on Windows (install hangs or gets interrupted)
+backend = "copy"
+
+[install.cache]
+dir = "D:/ERP-SYSTEM-2/.cache/bun"

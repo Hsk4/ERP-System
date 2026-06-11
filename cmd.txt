@@ -1,0 +1,8 @@
+bun run desktop:dev
+
+
+bunx tauri dev -c "{\"build\":{\"beforeDevCommand\":\"\"}}" --no-dev-server-wait
+
+build command 
+
+bun run desktop:build
